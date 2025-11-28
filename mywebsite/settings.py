@@ -82,7 +82,7 @@ WSGI_APPLICATION = 'mywebsite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'railway',  # database name
+        'NAME': 'railway',  
         'USER': 'postgres',  # username
         'PASSWORD': 'ZMCrXwcBTgZtLmHLPSVUlVUyGpEKuaEw',  # passwor
         'HOST': 'trolley.proxy.rlwy.net',  
