@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'railway',  # database name
         'USER': 'postgres',  # username
         'PASSWORD': 'ZMCrXwcBTgZtLmHLPSVUlVUyGpEKuaEw',  # password
-        'HOST': 'trolley.proxy.rlwy.net',  # host
+        'HOST': 'trolley.proxy.rlwy.net',  
         'PORT': '36418', 
     }
 }
