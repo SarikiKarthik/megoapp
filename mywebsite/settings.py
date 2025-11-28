@@ -86,9 +86,10 @@ DATABASES = {
         'USER': 'postgres',  # username
         'PASSWORD': 'ZMCrXwcBTgZtLmHLPSVUlVUyGpEKuaEw',  # password
         'HOST': 'trolley.proxy.rlwy.net',  # host
-        'PORT': '36418',  # port
+        'PORT': '36418', 
     }
 }
+
 
 
 # Password validation
