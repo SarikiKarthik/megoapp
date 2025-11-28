@@ -84,11 +84,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'railway',  # database name
         'USER': 'postgres',  # username
-        'PASSWORD': 'LaNZyTdoaBoJYdMfsszhyStYDwWfSBFV',  # password
-        'HOST': 'centerbeam.proxy.rlwy.net',  # host
-        'PORT': '48491',  # port
+        'PASSWORD': 'ZMCrXwcBTgZtLmHLPSVUlVUyGpEKuaEw',  # password
+        'HOST': 'trolley.proxy.rlwy.net',  # host
+        'PORT': '36418',  # port
     }
 }
+
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
